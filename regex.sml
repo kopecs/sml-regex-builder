@@ -12,7 +12,7 @@ sig
   val accept : t -> string -> bool
 end
 
-structure Regex : REGEX =
+structure Regex :> REGEX =
 struct
 datatype t =
     Zero
