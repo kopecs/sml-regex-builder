@@ -1,6 +1,6 @@
 This project allows for translation between `grep` style regex strings 
 and the regular expression data type utilized by 
-[15-150](cs.cmu.edu/~15150).
+[15-150](https://cs.cmu.edu/~15150).
 
 # Syntax #
 
